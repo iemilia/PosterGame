@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+     <ImageView 
+      android:id="@+id/fereastrabuna"
+      android:layout_width="match_parent"
+      android:layout_height="577dp"
+      android:adjustViewBounds="true"
+      android:src="@drawable/fereastrabuna"
+      android:onClick="fereastrabuna"
+      />
+
+ <ImageView
+      android:layout_width="wrap_content" 
+      android:layout_height="wrap_content" 
+      android:id="@+id/soundoff" 
+      android:src="@drawable/soundoff" 
+      android:onClick="soundoff" 
+      android:layout_x="49dp"
+      android:layout_y="340dp">
+      </ImageView>
+      
+      <ImageView 
+      android:layout_width="wrap_content" 
+      android:layout_height="wrap_content" 
+      android:id="@+id/soundonn" 
+      android:src="@drawable/soundonn" 
+      android:onClick="soundon" 
+      android:layout_x="91dp"
+      android:layout_y="139dp">
+      </ImageView>
+      
+</AbsoluteLayout>

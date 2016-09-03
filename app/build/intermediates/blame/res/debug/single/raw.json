@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aplauze.wav",
+        "source": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\src\\main\\res\\raw\\aplauze.wav"
+    },
+    {
+        "merged": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\paper.wav",
+        "source": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\src\\main\\res\\raw\\paper.wav"
+    },
+    {
+        "merged": "D:\\WorkFolder\\PosterGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\aplauze.wav",
+        "source": "D:\\WorkFolder\\PosterGame\\app\\src\\main\\res\\raw\\aplauze.wav"
+    },
+    {
+        "merged": "D:\\WorkFolder\\PosterGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\paper.wav",
+        "source": "D:\\WorkFolder\\PosterGame\\app\\src\\main\\res\\raw\\paper.wav"
+    },
+    {
+        "merged": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cantec.mp3",
+        "source": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\src\\main\\res\\raw\\cantec.mp3"
+    },
+    {
+        "merged": "D:\\WorkFolder\\PosterGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pling.mp3",
+        "source": "D:\\WorkFolder\\PosterGame\\app\\src\\main\\res\\raw\\pling.mp3"
+    },
+    {
+        "merged": "D:\\WorkFolder\\PosterGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cantec.mp3",
+        "source": "D:\\WorkFolder\\PosterGame\\app\\src\\main\\res\\raw\\cantec.mp3"
+    },
+    {
+        "merged": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pling.mp3",
+        "source": "D:\\WorkFolder\\bunFaraButoaneSunet1\\app\\src\\main\\res\\raw\\pling.mp3"
+    }
+]
